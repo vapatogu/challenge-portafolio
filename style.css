@@ -489,5 +489,7 @@ Utiliza las referencias de los breakpoints @media abajo */
     /*Footer*/
   }
   
-
+.title__profile{
+  border-radius: 50%;
+}
 /*Mobile*/
